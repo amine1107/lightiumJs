@@ -1,0 +1,2 @@
+# lightiumJs
+small javascript library 
